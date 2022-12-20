@@ -1,3 +1,4 @@
+{![MasterHead](https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz)](https://rohangiri.mystrikingly.com/)
 <h1 align="center">Hi 👋, I'm Rohan </h1>
 <h3 align="center">A passionate Functional Consultant from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif">
