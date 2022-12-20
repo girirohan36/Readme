@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif)]([https://rishavchanda.io](https://rohangiri.mystrikingly.com/)
+[![MasterHead](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif)](https://rohangiri.mystrikingly.com/)
 
 <h1 align="center">Hi 👋, I'm Rohan </h1>
 <h3 align="center">A passionate Functional Consultant from India</h3>
