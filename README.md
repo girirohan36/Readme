@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Rohan </h1>
 <h3 align="center">A passionate Functional Consultant from India</h3>
 
-[[![Linkedin Badge](https://img.shields.io/badge/-RohanGiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/girirohan36/)](https://www.linkedin.com/in/girirohan36/)
-](https://img.shields.io/badge/-BarnanaGanguly-blue?style=flat-square&logo=Linkedin&logoColor=w)
+[![Linkedin Badge](https://img.shields.io/badge/-RohanGiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/girirohan36/)](https://www.linkedin.com/in/girirohan36/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girirohan36&label=Profile%20views&color=0e75b6&style=flat" alt="girirohan36" /> </p>
 
