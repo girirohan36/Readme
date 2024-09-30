@@ -1,23 +1,33 @@
-[![MasterHead](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif)](https://rohangiri.mystrikingly.com/)
+
 
 <h1 align="center">Hi 👋, I'm Rohan </h1>
-<h3 align="center">A passionate Functional Consultant from India</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-RohanGiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/girirohan36/)](https://www.linkedin.com/in/girirohan36/)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=girirohan36&label=Profile%20views&color=0e75b6&style=flat" alt="girirohan36" /> </p>
+This is Rohan - **a data-driven professional**. I am passionate about driving business growth through data-driven insights by leveraging a mix of data analysis, machine learning, and effective interpersonal skills. I have 3.5 years of work experience as an Business Analyst at Accenture.
 
-- 🔭 I’m currently working on **SAP**
+🌱 **I’m currently learning:**
 
-- 🌱 I’m currently learning **Algorithms**
+How to use Data Analysis, Statistics, Data Visualization, Advanced Machine Learning and Optimization Techniques to generate value for business by pursuing Masters in business Analytics at McCombs School of Business, The University of Texas at Austin.
 
-- 👨‍💻 All of my projects are available at [https://rohangiri.mystrikingly.com/](https://rohangiri.mystrikingly.com/)
+🔭 **I’m currently working on:**
 
-- 📫 How to reach me **girirohan36@gmail.com**
+Developing and applying data strategies, ML models, data-driven solutions, and optimization techniques for real-world business applications.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GGqt446d6le0Z2cnJ08EncWSebxoFXQv/view?usp=sharing](https://drive.google.com/file/d/1GGqt446d6le0Z2cnJ08EncWSebxoFXQv/view?usp=sharing)
+💬 **Ask me about:**
 
+Data Analysis, Machine Learning, Business Problem Solving, Azure Data Engineering, SAP Production Planning
+
+
+🌐 **Socials:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girirohan36/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohangiri@utexas.edu)
+
+💻 **Tech Stack:**
+
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="SQL" src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/> <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img alt = "MS Excel" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=MS Excel&logoColor=white">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/girirohan36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/girirohan36/" height="30" width="40" /></a>
